@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1025471423580",
+    "project_id": "goturkey-199f0",
+    "storage_bucket": "goturkey-199f0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1025471423580:android:60ff99ad1a3ecf57233299",
+        "android_client_info": {
+          "package_name": "com.example.goturkey"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1025471423580-j34cm5ub353b42ahedodr56ld5rmqq26.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBy_5Z30Kzpf6bkDAVTlhh46k2Gsmz5t9o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1025471423580-j34cm5ub353b42ahedodr56ld5rmqq26.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

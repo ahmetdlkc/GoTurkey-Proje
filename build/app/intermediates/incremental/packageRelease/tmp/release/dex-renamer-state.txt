@@ -1,0 +1,4 @@
+#Sat Jun 11 21:48:20 TRT 2022
+base.0=C\:\\Users\\ahmet\\Desktop\\GoTurkey Proje\\goturkey\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
